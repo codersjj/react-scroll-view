@@ -1,5 +1,5 @@
 {
-  "name": "@codersjj/react-scroll-view",
+  "name": "scroll-view-r",
   "version": "1.0.0",
   "description": "A scroll view built with react",
   "main": "dist/index.umd.js",
@@ -38,6 +38,6 @@
     "styled-components": ">= 5"
   },
   "publishConfig": {
-    "@codersjj:registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   }
 }

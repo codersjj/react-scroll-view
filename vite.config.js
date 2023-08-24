@@ -5,7 +5,7 @@ export default defineConfig ({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.jsx"),
-      name: "react-scroll-view",
+      name: "scroll-view-r",
       fileName: "index",
     },
     rollupOptions: {
