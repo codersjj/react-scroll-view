@@ -18,13 +18,13 @@
   ],
   "author": "codersjj",
   "license": "MIT",
-  "homepage": "https://github.com/codersjj/scroll-view-react",
+  "homepage": "https://github.com/codersjj/react-scroll-view",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codersjj/scroll-view-react"
+    "url": "https://github.com/codersjj/react-scroll-view"
   },
   "bugs": {
-    "url": "https://github.com/codersjj/scroll-view-react"
+    "url": "https://github.com/codersjj/react-scroll-view"
   },
   "devDependencies": {
     "prop-types": "^15.8.1",
